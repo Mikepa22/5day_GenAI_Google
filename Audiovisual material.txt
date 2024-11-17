@@ -1,0 +1,24 @@
+Foundational Large Language Models & Text Generation” whitepaper.
+Podcast episode: https://youtu.be/F_hJ2Ey4BNc
+Day 1 Livestream with Paige Bailey 
+Video https://www.youtube.com/watch?v=kpRyiJUUFxY
+
+Embeddings & Vector Stores
+Podcast episode: https://www.youtube.com/watch?v=1CC39K76Nqs
+Day 2 Livestream with Paige Bailey 
+Video https://www.youtube.com/watch?v=86GZC56rQCc&t=2265s
+
+Whitepaper Companion Podcast - Agents
+Podcast episode:https://www.youtube.com/watch?v=H4gZd4BCrDQ
+Day 3 Livestream with Paige Bailey 
+Video https://www.youtube.com/watch?v=HQUtMWoTAD4&t=2s
+
+Solving Domain-Specific Problems Using LLMs
+Podcast episode: https://www.youtube.com/watch?v=b1a4ZOQ8XdI&feature=youtu.be
+Day 4 Livestream with Paige Bailey 
+Video https://www.youtube.com/watch?v=odvuLMJWUSU
+
+Operationalizing Generative AI on Vertex AI using MLOps
+Podcast episode: https://www.youtube.com/watch?v=k9S6IhiUUj4
+Day 5 Livestream with Paige Bailey 
+Video https://www.youtube.com/watch?v=uCFW0i9xrBc
